@@ -1,0 +1,6 @@
+main: be.alexandre01.moderation.Moderation
+name: Moderation Plugin
+version: 1.0Beta
+author: Alexandre01
+commands:
+  mod:
